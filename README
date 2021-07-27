@@ -58,7 +58,7 @@ Example			Contains examples
 For building This filesystem you should have Linux (any distribution) with kernel version-3.13.0.* (
 try yourself to test on other kernel-versions). And GCC C compiler
 
-1. git clone hgfs ripository
+1. git clone hgfs repository
 
 2. Edit Makefile for your configuration (if necessary)  the default parameters should
    be suitable.
